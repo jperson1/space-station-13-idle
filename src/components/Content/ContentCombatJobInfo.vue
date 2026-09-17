@@ -279,7 +279,7 @@
           class="mx--2"
           :src="require('@/assets/art/misc/coin-padded.png')"
         />
-        <b>Loot</b> regulalry, as you won't be able to get it after you
+        <b>Loot</b> regularly, as you won't be able to get it after you
         <img
           class="mx--0"
           :src="require('@/assets/art/combat/run.png')"
